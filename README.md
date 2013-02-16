@@ -6,6 +6,7 @@ See example/app.js
 
 ### Feature
 * Ti.UI.ScrollableView currentPageIndicatorTintColor / pageIndicatorTintColor only for iOS6
+* Ti.UI.TableView UIRefreshControl only for iOS6
 
 ### License
 The MIT License (MIT) Copyright (c) 2013 Kosuke Isobe

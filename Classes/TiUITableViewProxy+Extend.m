@@ -6,7 +6,13 @@
  */
 
 #import "TiUITableViewProxy+Extend.h"
+#import "TiUITableView+Extend.h"
 
 @implementation TiUITableViewProxy (TiUITableViewProxy_Extend)
+
+-(void)refreshFinish:(id)args
+{
+    TiThreadPerformOnMainThread(^{[(TiUITableView*)[self view] refreshFinish:args];}, NO);
+}
 
 @end

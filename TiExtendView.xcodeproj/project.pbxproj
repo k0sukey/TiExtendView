@@ -28,8 +28,8 @@
 		23BDDB3A16CD1DD000E39656 /* TiUIScrollableViewProxy+Extend.m in Sources */ = {isa = PBXBuildFile; fileRef = 23BDDB3616CD1DD000E39656 /* TiUIScrollableViewProxy+Extend.m */; };
 		23BDDB3F16CE714C00E39656 /* TiUITableView+Extend.h in Headers */ = {isa = PBXBuildFile; fileRef = 23BDDB3B16CE714C00E39656 /* TiUITableView+Extend.h */; };
 		23BDDB4016CE714C00E39656 /* TiUITableView+Extend.m in Sources */ = {isa = PBXBuildFile; fileRef = 23BDDB3C16CE714C00E39656 /* TiUITableView+Extend.m */; };
-		23BDDB4516CE924E00E39656 /* TiUITableViewProxy+Extend.h in Headers */ = {isa = PBXBuildFile; fileRef = 23BDDB4316CE924E00E39656 /* TiUITableViewProxy+Extend.h */; };
-		23BDDB4616CE924E00E39656 /* TiUITableViewProxy+Extend.m in Sources */ = {isa = PBXBuildFile; fileRef = 23BDDB4416CE924E00E39656 /* TiUITableViewProxy+Extend.m */; };
+		23BDDB4916CF493F00E39656 /* TiUITableViewProxy+Extend.h in Headers */ = {isa = PBXBuildFile; fileRef = 23BDDB4716CF493F00E39656 /* TiUITableViewProxy+Extend.h */; };
+		23BDDB4A16CF493F00E39656 /* TiUITableViewProxy+Extend.m in Sources */ = {isa = PBXBuildFile; fileRef = 23BDDB4816CF493F00E39656 /* TiUITableViewProxy+Extend.m */; };
 		24DD6CF91134B3F500162E58 /* BeK0sukeTiextendviewModule.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DD6CF71134B3F500162E58 /* BeK0sukeTiextendviewModule.h */; };
 		24DD6CFA1134B3F500162E58 /* BeK0sukeTiextendviewModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DD6CF81134B3F500162E58 /* BeK0sukeTiextendviewModule.m */; };
 		24DE9E1111C5FE74003F90F6 /* BeK0sukeTiextendviewModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DE9E0F11C5FE74003F90F6 /* BeK0sukeTiextendviewModuleAssets.h */; };
@@ -55,8 +55,8 @@
 		23BDDB3616CD1DD000E39656 /* TiUIScrollableViewProxy+Extend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TiUIScrollableViewProxy+Extend.m"; path = "Classes/TiUIScrollableViewProxy+Extend.m"; sourceTree = "<group>"; };
 		23BDDB3B16CE714C00E39656 /* TiUITableView+Extend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TiUITableView+Extend.h"; path = "Classes/TiUITableView+Extend.h"; sourceTree = "<group>"; };
 		23BDDB3C16CE714C00E39656 /* TiUITableView+Extend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TiUITableView+Extend.m"; path = "Classes/TiUITableView+Extend.m"; sourceTree = "<group>"; };
-		23BDDB4316CE924E00E39656 /* TiUITableViewProxy+Extend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TiUITableViewProxy+Extend.h"; path = "Classes/TiUITableViewProxy+Extend.h"; sourceTree = "<group>"; };
-		23BDDB4416CE924E00E39656 /* TiUITableViewProxy+Extend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TiUITableViewProxy+Extend.m"; path = "Classes/TiUITableViewProxy+Extend.m"; sourceTree = "<group>"; };
+		23BDDB4716CF493F00E39656 /* TiUITableViewProxy+Extend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TiUITableViewProxy+Extend.h"; path = "Classes/TiUITableViewProxy+Extend.h"; sourceTree = "<group>"; };
+		23BDDB4816CF493F00E39656 /* TiUITableViewProxy+Extend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TiUITableViewProxy+Extend.m"; path = "Classes/TiUITableViewProxy+Extend.m"; sourceTree = "<group>"; };
 		24DD6CF71134B3F500162E58 /* BeK0sukeTiextendviewModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BeK0sukeTiextendviewModule.h; path = Classes/BeK0sukeTiextendviewModule.h; sourceTree = "<group>"; };
 		24DD6CF81134B3F500162E58 /* BeK0sukeTiextendviewModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BeK0sukeTiextendviewModule.m; path = Classes/BeK0sukeTiextendviewModule.m; sourceTree = "<group>"; };
 		24DD6D1B1134B66800162E58 /* titanium.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = titanium.xcconfig; sourceTree = "<group>"; };
@@ -119,8 +119,8 @@
 				23BDDB3616CD1DD000E39656 /* TiUIScrollableViewProxy+Extend.m */,
 				23BDDB3B16CE714C00E39656 /* TiUITableView+Extend.h */,
 				23BDDB3C16CE714C00E39656 /* TiUITableView+Extend.m */,
-				23BDDB4316CE924E00E39656 /* TiUITableViewProxy+Extend.h */,
-				23BDDB4416CE924E00E39656 /* TiUITableViewProxy+Extend.m */,
+				23BDDB4716CF493F00E39656 /* TiUITableViewProxy+Extend.h */,
+				23BDDB4816CF493F00E39656 /* TiUITableViewProxy+Extend.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -147,7 +147,7 @@
 				23BDDB3716CD1DD000E39656 /* TiUIScrollableView+Extend.h in Headers */,
 				23BDDB3916CD1DD000E39656 /* TiUIScrollableViewProxy+Extend.h in Headers */,
 				23BDDB3F16CE714C00E39656 /* TiUITableView+Extend.h in Headers */,
-				23BDDB4516CE924E00E39656 /* TiUITableViewProxy+Extend.h in Headers */,
+				23BDDB4916CF493F00E39656 /* TiUITableViewProxy+Extend.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -223,7 +223,7 @@
 				23BDDB3816CD1DD000E39656 /* TiUIScrollableView+Extend.m in Sources */,
 				23BDDB3A16CD1DD000E39656 /* TiUIScrollableViewProxy+Extend.m in Sources */,
 				23BDDB4016CE714C00E39656 /* TiUITableView+Extend.m in Sources */,
-				23BDDB4616CE924E00E39656 /* TiUITableViewProxy+Extend.m in Sources */,
+				23BDDB4A16CF493F00E39656 /* TiUITableViewProxy+Extend.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -18,7 +18,6 @@ UIRefreshControl *_refreshControl;
 
     if (isRefreshControl == YES)
     {
-        NSLog(@"[DEBUG] setRefreshControl");
         _refreshControl = [[[UIRefreshControl alloc]init] autorelease];
         [_refreshControl addTarget:self action:@selector(refreshStart) forControlEvents:UIControlEventValueChanged];
         [[self tableView] addSubview:_refreshControl];
