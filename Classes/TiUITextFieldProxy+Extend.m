@@ -4,10 +4,10 @@
  * Licensed under the terms of the Apache Public License
  * Please see the LICENSE included with this distribution for details.
  */
-#import "TiProxy.h"
-#import "TiUtils.h"
-#import "TiUITableView.h"
 
-@interface TiUITableView (TiUITableView_Extend)
+#import "TiUITextFieldProxy+Extend.h"
+#import "TiUITextField+Extend.h"
+
+@implementation TiUITextFieldProxy (TiUITextFieldProxy_Extend)
 
 @end

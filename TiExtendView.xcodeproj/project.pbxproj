@@ -22,6 +22,10 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		23B5B36816DB077B00F4294D /* TiUITextField+Extend.m in Sources */ = {isa = PBXBuildFile; fileRef = 23B5B36716DB077B00F4294D /* TiUITextField+Extend.m */; };
+		23B5B36A16DB079F00F4294D /* TiUITextField+Extend.h in Headers */ = {isa = PBXBuildFile; fileRef = 23B5B36916DB079F00F4294D /* TiUITextField+Extend.h */; };
+		23B5B36E16DB082F00F4294D /* TiUITextFieldProxy+Extend.m in Sources */ = {isa = PBXBuildFile; fileRef = 23B5B36D16DB082F00F4294D /* TiUITextFieldProxy+Extend.m */; };
+		23B5B38816DB85F700F4294D /* TiUITextFieldProxy+Extend.h in Headers */ = {isa = PBXBuildFile; fileRef = 23B5B38716DB85F700F4294D /* TiUITextFieldProxy+Extend.h */; };
 		23BDDB3716CD1DD000E39656 /* TiUIScrollableView+Extend.h in Headers */ = {isa = PBXBuildFile; fileRef = 23BDDB3316CD1DD000E39656 /* TiUIScrollableView+Extend.h */; };
 		23BDDB3816CD1DD000E39656 /* TiUIScrollableView+Extend.m in Sources */ = {isa = PBXBuildFile; fileRef = 23BDDB3416CD1DD000E39656 /* TiUIScrollableView+Extend.m */; };
 		23BDDB3916CD1DD000E39656 /* TiUIScrollableViewProxy+Extend.h in Headers */ = {isa = PBXBuildFile; fileRef = 23BDDB3516CD1DD000E39656 /* TiUIScrollableViewProxy+Extend.h */; };
@@ -49,6 +53,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		23B5B36716DB077B00F4294D /* TiUITextField+Extend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TiUITextField+Extend.m"; path = "Classes/TiUITextField+Extend.m"; sourceTree = "<group>"; };
+		23B5B36916DB079F00F4294D /* TiUITextField+Extend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TiUITextField+Extend.h"; path = "Classes/TiUITextField+Extend.h"; sourceTree = "<group>"; };
+		23B5B36D16DB082F00F4294D /* TiUITextFieldProxy+Extend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TiUITextFieldProxy+Extend.m"; path = "Classes/TiUITextFieldProxy+Extend.m"; sourceTree = "<group>"; };
+		23B5B38716DB85F700F4294D /* TiUITextFieldProxy+Extend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TiUITextFieldProxy+Extend.h"; path = "Classes/TiUITextFieldProxy+Extend.h"; sourceTree = "<group>"; };
 		23BDDB3316CD1DD000E39656 /* TiUIScrollableView+Extend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TiUIScrollableView+Extend.h"; path = "Classes/TiUIScrollableView+Extend.h"; sourceTree = "<group>"; };
 		23BDDB3416CD1DD000E39656 /* TiUIScrollableView+Extend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TiUIScrollableView+Extend.m"; path = "Classes/TiUIScrollableView+Extend.m"; sourceTree = "<group>"; };
 		23BDDB3516CD1DD000E39656 /* TiUIScrollableViewProxy+Extend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TiUIScrollableViewProxy+Extend.h"; path = "Classes/TiUIScrollableViewProxy+Extend.h"; sourceTree = "<group>"; };
@@ -121,6 +129,10 @@
 				23BDDB3C16CE714C00E39656 /* TiUITableView+Extend.m */,
 				23BDDB4716CF493F00E39656 /* TiUITableViewProxy+Extend.h */,
 				23BDDB4816CF493F00E39656 /* TiUITableViewProxy+Extend.m */,
+				23B5B36916DB079F00F4294D /* TiUITextField+Extend.h */,
+				23B5B36716DB077B00F4294D /* TiUITextField+Extend.m */,
+				23B5B38716DB85F700F4294D /* TiUITextFieldProxy+Extend.h */,
+				23B5B36D16DB082F00F4294D /* TiUITextFieldProxy+Extend.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -148,6 +160,8 @@
 				23BDDB3916CD1DD000E39656 /* TiUIScrollableViewProxy+Extend.h in Headers */,
 				23BDDB3F16CE714C00E39656 /* TiUITableView+Extend.h in Headers */,
 				23BDDB4916CF493F00E39656 /* TiUITableViewProxy+Extend.h in Headers */,
+				23B5B36A16DB079F00F4294D /* TiUITextField+Extend.h in Headers */,
+				23B5B38816DB85F700F4294D /* TiUITextFieldProxy+Extend.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -224,6 +238,8 @@
 				23BDDB3A16CD1DD000E39656 /* TiUIScrollableViewProxy+Extend.m in Sources */,
 				23BDDB4016CE714C00E39656 /* TiUITableView+Extend.m in Sources */,
 				23BDDB4A16CF493F00E39656 /* TiUITableViewProxy+Extend.m in Sources */,
+				23B5B36816DB077B00F4294D /* TiUITextField+Extend.m in Sources */,
+				23B5B36E16DB082F00F4294D /* TiUITextFieldProxy+Extend.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

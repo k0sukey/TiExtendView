@@ -12,7 +12,7 @@
 
 -(void)setPagingControlCurrentIndicatorColor_:(id)args
 {
-    TiColor* val = [TiUtils colorValue:args];
+    TiColor *val = [TiUtils colorValue:args];
     
     if (val != nil)
     {
@@ -29,7 +29,7 @@
 
 -(void)setPagingControlIndicatorColor_:(id)args
 {
-    TiColor* val = [TiUtils colorValue:args];
+    TiColor *val = [TiUtils colorValue:args];
 
     if (val != nil)
     {

@@ -24,6 +24,16 @@ UIRefreshControl *_refreshControl;
     }
 }
 
+-(void)setRefreshControlColor_:(id)args
+{
+    TiColor *val = [TiUtils colorValue:args];
+
+    if (val != nil)
+    {
+        _refreshControl.tintColor = [[val _color] retain];
+    }
+}
+
 -(void)refreshStart
 {
     [_refreshControl beginRefreshing];

@@ -6,8 +6,8 @@
  */
 #import "TiProxy.h"
 #import "TiUtils.h"
-#import "TiUITableView.h"
+#import "TiUITextField.h"
 
-@interface TiUITableView (TiUITableView_Extend)
+@interface TiUITextField (TiUITextField_Extend)
 
 @end
