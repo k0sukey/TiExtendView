@@ -16,4 +16,4 @@ moduleid: be.k0suke.tiextendview
 guid: c40072ea-b90a-40f3-85b2-2a15b8170584
 platform: iphone
 minsdk: 3.4.1
-architectures: armv7 i386 arm64
+architectures: arm64 armv7 armv7s i386
